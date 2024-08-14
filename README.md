@@ -1,0 +1,1 @@
+# git-vsc-ignore
